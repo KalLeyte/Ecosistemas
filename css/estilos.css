@@ -1,0 +1,606 @@
+/* estilos */
+
+/* header */
+body{
+background-color: white;
+}
+
+.bgimagen-textura{
+  background: url(../img/tria.png)fixed center no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  width: 100%;
+}
+
+.titulo-bgimagen{
+  padding: 20% 0;
+}
+
+ .titulo-bgimagen h1{
+   font-family: 'Anton', sans-serif;
+   font-size: 5.5rem;
+   text-transform: uppercase;
+   text-align: center;
+   color: white;
+ }
+
+ .titulo-bgimagen p{
+   text-align: center;
+   color: white;
+ }
+/* fin header */
+
+/* titulo grid */
+ .grandes-ecosistemas h2{
+   font-family: 'Anton', sans-serif;
+   font-size: 3.2rem;
+   text-transform: uppercase;
+   text-align: center;
+   color: black;
+   padding-top: 2rem;
+   padding-bottom: 2rem;
+ }
+/* fin titulo grid */
+ .roundshadow {
+   border-radius: 10px;
+   background-color: white;
+   -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+   -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+   box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+   height: 350px;
+   display: flex;
+   align-items: center;
+ }
+/* grid */
+ .coral{
+ background: url(../img/arrecifes.jpg) no-repeat center center;
+ background-size: cover;
+ overflow: hidden;
+ width: 100%;
+ }
+ .algas{
+ background: url(../img/algas.jpg) no-repeat center center;
+ background-size: cover;
+ overflow: hidden;
+ width: 100%;
+ }
+
+ .pastizales{
+ background: url(../img/pastizal.jpg) no-repeat center center;
+ background-size: cover;
+ overflow: hidden;
+ width: 100%;
+ }
+ .manglares{
+ background: url(../img/manglares.jpg) no-repeat center center;
+ background-size: cover;
+ overflow: hidden;
+ width: 100%;
+ }
+ .selva-seca{
+ background: url(../img/selva-seca.jpg) no-repeat center center;
+ background-size: cover;
+ overflow: hidden;
+ width: 100%;
+ }
+ .selva-humeda{
+ background: url(../img/selva-humeda.jpg) no-repeat center center;
+ background-size: cover;
+ overflow: hidden;
+ width: 100%;
+ }
+ .bosques-templados{
+ background: url(../img/bosque-templado.jpg) no-repeat center center;
+ background-size: cover;
+ overflow: hidden;
+ width: 100%;
+ }
+ .bosques-nublados{
+ background: url(../img/bosque-nublado.jpg) no-repeat center center;
+ background-size: cover;
+ overflow: hidden;
+ width: 100%;
+ }
+ .lagunas-costeras{
+ background: url(../img/laguna.jpg) no-repeat center center;
+ background-size: cover;
+ overflow: hidden;
+ width: 100%;
+ }
+ .matorrales{
+ background: url(../img/matorrales.jpg) no-repeat center center;
+ background-size: cover;
+ overflow: hidden;
+ width: 100%;
+
+ }
+
+.gradient1{
+  background: url(../img/tria.png)fixed center no-repeat;
+  -webkit-transition:all 0.5s ease-in-out;
+-moz-transition: all 0.5s ease-in-out;
+-o-transition: all 0.5s ease-in-out;
+-ms-transition: all 0.5s ease-in-out;
+-transition: all 0.5s ease-in-out;
+}
+
+.gradient2{
+  background: url(../img/tria.png)fixed center no-repeat;
+  -webkit-transition:all 0.5s ease-in-out;
+-moz-transition: all 0.5s ease-in-out;
+-o-transition: all 0.5s ease-in-out;
+-ms-transition: all 0.5s ease-in-out;
+-transition: all 0.5s ease-in-out;
+
+}
+.gradient3{
+  background: url(../img/tria.png)fixed center no-repeat;
+  -webkit-transition:all 0.5s ease-in-out;
+-moz-transition: all 0.5s ease-in-out;
+-o-transition: all 0.5s ease-in-out;
+-ms-transition: all 0.5s ease-in-out;
+-transition: all 0.5s ease-in-out;
+}
+.gradient4{
+  background: url(../img/tria.png)fixed center no-repeat;
+  -webkit-transition:all 0.5s ease-in-out;
+-moz-transition: all 0.5s ease-in-out;
+-o-transition: all 0.5s ease-in-out;
+-ms-transition: all 0.5s ease-in-out;
+-transition: all 0.5s ease-in-out;
+}
+.gradient5{
+  background: url(../img/tria.png)fixed center no-repeat;
+  -webkit-transition:all 0.5s ease-in-out;
+-moz-transition: all 0.5s ease-in-out;
+-o-transition: all 0.5s ease-in-out;
+-ms-transition: all 0.5s ease-in-out;
+-transition: all 0.5s ease-in-out;
+}
+.gradient6{
+  background: url(../img/tria.png)fixed center no-repeat;
+  -webkit-transition:all 0.5s ease-in-out;
+-moz-transition: all 0.5s ease-in-out;
+-o-transition: all 0.5s ease-in-out;
+-ms-transition: all 0.5s ease-in-out;
+-transition: all 0.5s ease-in-out;
+}
+.gradient7{
+  background: url(../img/tria.png)fixed center no-repeat;
+  -webkit-transition:all 0.5s ease-in-out;
+-moz-transition: all 0.5s ease-in-out;
+-o-transition: all 0.5s ease-in-out;
+-ms-transition: all 0.5s ease-in-out;
+-transition: all 0.5s ease-in-out;
+}
+.gradient8{
+  background: url(../img/tria.png)fixed center no-repeat;
+  -webkit-transition:all 0.5s ease-in-out;
+-moz-transition: all 0.5s ease-in-out;
+-o-transition: all 0.5s ease-in-out;
+-ms-transition: all 0.5s ease-in-out;
+-transition: all 0.5s ease-in-out;
+}
+.gradient9{
+  background: url(../img/tria.png)fixed center no-repeat;
+  -webkit-transition:all 0.5s ease-in-out;
+-moz-transition: all 0.5s ease-in-out;
+-o-transition: all 0.5s ease-in-out;
+-ms-transition: all 0.5s ease-in-out;
+-transition: all 0.5s ease-in-out;
+}
+.gradient10{
+  background: url(../img/tria.png)fixed center no-repeat;
+  -webkit-transition:all 0.5s ease-in-out;
+-moz-transition: all 0.5s ease-in-out;
+-o-transition: all 0.5s ease-in-out;
+-ms-transition: all 0.5s ease-in-out;
+-transition: all 0.5s ease-in-out;
+}
+.roundshadow h3{
+  font-family: 'Anton', sans-serif;
+  font-size: 5rem;
+  text-transform: uppercase;
+  text-align: center;
+  color: black;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.row a:link{
+  text-decoration: none;
+}
+
+/* fin grid */
+
+/* asociaciones */
+.tit-asociaciones h2 {
+  font-family: 'Anton', sans-serif;
+  font-size: 3.2rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-align: center;
+  color: white;
+}
+
+.asociaciones h3{
+  font-family: 'Anton', sans-serif;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-align: center;
+  color: white;
+}
+
+.asociaciones p{
+  color: white;
+
+}
+
+.bgimagen-asociaciones{
+  background: url(../img/tria.png)fixed center no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  width: 100%;
+}
+.as1 {
+   background-image: linear-gradient(to bottom, #2d2d2d, #363536, #3f3e3e, #484647, #524f4f);
+   border-radius: 5px;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 3px 4px 0 rgba(0, 0, 0, 0.10);
+   -webkit-transition: all 0.5s ease;
+      -moz-transition: all 0.5s ease;
+        -o-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+           transition: all 0.5s ease;
+}
+
+.as1:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  -webkit-transform: rotate(-10deg);
+     -moz-transform: rotate(-10deg);
+       -o-transform: rotate(-10deg);
+      -ms-transform: rotate(-10deg);
+          transform: rotate(-10deg);
+}
+
+
+
+.btn-alert,
+.bt-alert:active{
+  border-radius: 0;
+  background: #02E301;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  border-radius: 1rem;
+}
+/* fin asociaciones */
+
+/* nav */
+.navbar{
+  font-size: 0.9rem;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-transform: uppercase;
+}
+
+.navbar .navbar-invers{
+  background: #2d2d2d;
+  border-color: #2d2d2d;
+}
+
+.navbar .navbar> .active> a{
+  background: #02E301;
+}
+
+.navbar .navbar-brand{
+  color: white;
+  font-weight: bolder;
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+}
+
+.navbar .navbar-brand i{
+  color: #02E301;
+  font-size: 22px;
+  letter-spacing: 1px;
+}
+
+.bgfooter{
+  background-image: linear-gradient(to bottom, #2d2d2d, #363536, #3f3e3e, #484647, #524f4f);
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 3px 4px 0 rgba(0, 0, 0, 0.10);
+  -webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+       -o-transition: all 0.5s ease;
+     -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+  color: white;
+  padding:  2% 0;
+}
+
+.bgfooter p{
+  margin: 0;
+  padding: 0;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+
+}
+
+.footernav{
+display: inline-block;
+font-size: 0.7rem;
+text-transform: uppercase;
+margin: 0;
+padding: 0;
+}
+
+.footernav a{
+  color: white;
+  margin: 0 -2px;
+}
+
+.footernav a:hover{
+  color: #1E90FF;
+  text-decoration: none;
+}
+
+/* fin nav */
+
+/* borde de ecosistemas */
+.perro{
+  background-color: #fafafa;
+  -webkit-box-shadow: 0px 22px 18px -20px rgba(0, 0, 0, 0.46);
+  -moz-box-shadow: 0px 22px 18px -20px rgba(0, 0, 0, 0.46);
+  box-shadow: 0px 22px 18px -20px rgba(0, 0, 0, 0.46);
+  border-radius: 2%;
+  padding-bottom: 0.2rem;
+}
+
+.perro p{
+  padding: 0 1.7rem;
+  text-align: justify;
+}
+
+.perro h2{
+display: flex;
+width: 100%;
+justify-content: center;
+align-items: center;
+text-align: center;
+font-family: 'Anton', sans-serif;
+text-transform: uppercase;
+letter-spacing: 1px;
+font-size: 2.5rem;
+margin: 1rem 0;
+padding: 0 1.7rem;
+}
+
+.perro h2:before,
+.perro h2:after{
+  content: '';
+  border-top: 1px solid #cecece;
+  margin: 0 20px 0 0;
+  flex: 1 0 20px;
+}
+.perro h2:after{
+  margin: 0 0 0 20px;
+}
+
+/* fin borde de ecosistemas */
+
+/* galeria */
+.galeria{
+padding: 2% 0;
+}
+
+.galeria h2{
+  font-family: 'Anton', sans-serif;
+  font-size: 3rem;
+  text-transform: uppercase;
+text-align: center;
+}
+/* fin galeria */
+
+/* nosostros */
+.picalumnos img{
+  height: 200px;
+  width: 200px;
+  border-bottom: 5px solid #02E301;
+  border-left: 1px solid #02E301;
+  border-right: 1px solid #02E301;
+  border-top: none;
+  padding: 2px;
+  -webkit-box-shadow: 4px 7px 6px -3px rgba(0, 0, 0, 0.55);
+  -moz-box-shadow: 4px 7px 6px -3px rgba(0, 0, 0, 0.55);
+  box-shadow: 4px 7px 6px -3px rgba(0, 0, 0, 0.55);
+}
+
+.picalumnos h3{
+  font-family: 'Anton', sans-serif;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 10% 10%;
+}
+
+.picalumnos p{
+  text-align: justify;
+  font-size: 0.9rem;
+}
+/* fin nosostros */
+
+
+.c h3{
+  color: white;
+}
+
+.descargas{
+  text-align: center;
+  font-family: 'Anton', sans-serif;
+  font-size: 0.5rem;
+  text-transform: uppercase;
+}
+
+/* estilos del formulario */
+
+.contact input[type="text"],
+.contact input[type="email"],
+.contact textarea,
+.coment input[type="text"],
+.coment input[type="email"],
+.coment textarea,
+.confirm input[type="text"],
+.confirm input[type="email"],
+.confirm textarea{
+	border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border: 0px;
+	resize: none;
+	background: #eaeaea;
+	-webkit-box-shadow: 0 0 1px 2px #eaeaea;
+     -moz-box-shadow: 0 0 1px 2px #eaeaea;
+          box-shadow: 0 0 1px 2px #eaeaea;
+	-webkit-transition: border linear 0.2s, box-shadow linear 0.2s;
+     -moz-transition: border linear 0.2s, box-shadow linear 0.2s;
+       -o-transition: border linear 0.2s, box-shadow linear 0.2s;
+          transition: border linear 0.2s, box-shadow linear 0.2s;
+          margin-bottom: 10px;
+}
+
+.contact input[type="text"]:focus,
+.contact input[type="email"]:focus,
+.contact textarea:focus,
+.coment input[type="text"]:focus,
+.coment input[type="email"]:focus,
+.coment textarea:focus,
+.confirm input[type="text"]:focus,
+.confirm input[type="email"]:focus,
+.confirm textarea:focus{
+	color: #ffa421;
+	-webkit-box-shadow: 0 0 1px 2px #02E301 !important;
+     -moz-box-shadow: 0 0 1px 2px #02E301 !important;
+          box-shadow: 0 0 1px 2px #02E301 !important;
+	outline: none;
+}
+
+.contact textarea,
+.coment textarea{
+	padding: 10px;
+}
+
+.contact input[type="text"],
+.contact input[type="email"]{
+	height: 46px;
+	padding: 10px
+}
+
+.confirm input[type="text"],
+.confirm input[type="email"]{
+	height: 35px;
+	padding: 10px;
+}
+
+.coment input[type="text"],
+.coment input[type="email"]{
+	height: 35px;
+	padding: 10px;
+	margin-right: 5px;
+}
+.mensaje h2{
+  font-family: 'Anton', sans-serif;
+  font-size: 3rem;
+  text-transform: uppercase;
+}
+
+
+/* fin contacto */
+
+.graficaG h2{
+font-family: 'Anton', sans-serif;
+font-size: 3rem;
+text-transform: uppercase;
+text-align: center;
+}
+
+.graficaArrecifes{
+font-family: 'Anton', sans-serif;
+font-size: 3rem;
+text-transform: uppercase;
+text-align: center;
+padding-top: 3rem;
+}
+
+.graficaAlgas{
+font-family: 'Anton', sans-serif;
+font-size: 3rem;
+text-transform: uppercase;
+text-align: center;
+padding-top: 3rem;
+}
+
+.graficaManglares{
+font-family: 'Anton', sans-serif;
+font-size: 3rem;
+text-transform: uppercase;
+text-align: center;
+padding-top: 3rem;
+}
+
+.graficaBnublados{
+font-family: 'Anton', sans-serif;
+font-size: 3rem;
+text-transform: uppercase;
+text-align: center;
+padding-top: 3rem;
+}
+
+.graficaBtemplados{
+font-family: 'Anton', sans-serif;
+font-size: 3rem;
+text-transform: uppercase;
+text-align: center;
+padding-top: 3rem;
+}
+
+.graficaLaguna{
+font-family: 'Anton', sans-serif;
+font-size: 3rem;
+text-transform: uppercase;
+text-align: center;
+padding-top: 3rem;
+}
+
+.graficaMatorrales{
+font-family: 'Anton', sans-serif;
+font-size: 3rem;
+text-transform: uppercase;
+text-align: center;
+padding-top: 3rem;
+}
+
+.graficaPastizales{
+font-family: 'Anton', sans-serif;
+font-size: 3rem;
+text-transform: uppercase;
+text-align: center;
+padding-top: 3rem;
+}
+
+.graficaSseca{
+font-family: 'Anton', sans-serif;
+font-size: 3rem;
+text-transform: uppercase;
+text-align: center;
+padding-top: 3rem;
+}
+
+.graficaShumeda{
+font-family: 'Anton', sans-serif;
+font-size: 3rem;
+text-transform: uppercase;
+text-align: center;
+padding-top: 3rem;
+}

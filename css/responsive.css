@@ -1,0 +1,100 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+  .titulo-bgimagen h1{
+    font-family: 'Anton', sans-serif;
+    font-size: 3em;
+
+  }
+
+  .grandes-ecosistemas h2 {
+    font-family: 'Anton',sans-serif;
+    font-size: 3em;
+    text-align: center;
+    color: #2d2d2d;
+}
+.roundshadow h3 {
+    font-size: 3.5em;
+    text-align: center;
+    color: #fff;
+    padding: 0;
+}
+.tit-asociasiones h2 {
+    font-size: 3em;
+    text-align: center;
+    color: #fff;
+}
+
+.graficarespo{
+
+}
+
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+
+ }
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .roundshadow h3 {
+      font-size: 4em;
+      text-align: center;
+      color: #fff;
+      padding: 0;
+  }
+
+  .btn-alert{
+    font-size: 0.5rem;
+    font-family: 'Anton', sans-serif;
+  }
+
+  .as1{
+padding-top: 2em;
+padding-bottom: 2em;
+  font-size: 0.6rem;
+  }
+
+  .asociaciones h3{
+    font-family: 'Anton', sans-serif;
+    font-size: 0.6rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+
+  .picalumnos img{
+    height: 150px;
+    width: 150px;
+    padding: 1px;
+  }
+
+  .picalumnos h3{
+    font-family: 'Anton', sans-serif;
+    font-size: 0.9rem;
+
+  }
+
+  .picalumnos p{
+    text-align: justify;
+    font-size: 0.6rem;
+  }
+
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .btn-alert{
+    font-size: 0.7rem;
+    font-family: 'Anton', sans-serif;
+  }
+  .picalumnos h3{
+    font-family: 'Anton', sans-serif;
+    font-size: 1.2rem;
+
+  }
+ }
+
+/*  Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { ... }
